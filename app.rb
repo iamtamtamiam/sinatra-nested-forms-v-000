@@ -20,7 +20,7 @@ module FormsLab
         Pirate.new(args)
       end
       
-      @ships
+      @ships = Ships.all
       
     end 
     
